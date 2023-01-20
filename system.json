@@ -68,6 +68,6 @@
     "primaryTokenAttribute": "health",
     "secondaryTokenAttribute": "power",
     "url": "",
-    "manifest": "https://github.com/kankick/yze-coriolis-CBPK/blob/master/system.json",
-    "download": "https://github.com/kankick/yze-coriolis-CBPK/blob/master/yze-coriolis-CBPK-master.zip"
+    "manifest": "https://github.com/kankick/yze-coriolis-CBPK/releases/tag/corioliscbpk/system.json",
+    "download": "https://github.com/kankick/yze-coriolis-CBPK/releases/tag/corioliscbpk/yze-coriolis-CBPK-master.zip"
 }
